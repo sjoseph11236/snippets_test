@@ -1,4 +1,4 @@
-# SNIPPET: update name conventions for folder and files
+# SNIPPET: upate conventions for file and foler names
 
 ![screenshot](./ss.png)
 
