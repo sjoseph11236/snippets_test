@@ -1,4 +1,4 @@
-# SNIPPET: upate conventions for file and foler names
+# SNIPPET: ttes
 
 ![screenshot](./ss.png)
 
